@@ -1,0 +1,43 @@
+* {
+    font-family: Monaco, Verdana, sans-serif;
+    color:rgb(221, 221, 221);
+}
+
+body {
+    background-color: rgb(24, 24, 24);
+    line-height: 1.5;
+    padding: 60px;
+    padding-top: 0px;
+}
+
+h1,
+h2
+{
+    text-align: center;
+    padding: 12px;
+}
+
+h1 {
+    padding-top: 0px;
+}
+
+
+
+.recipe-links {
+    list-style: none;
+    font-size: 20px;
+    text-align: center;
+    /* margin-bottom: 50px; */
+}
+
+a {
+    text-decoration: none;
+  }
+
+.images {
+    text-align: center;
+}
+
+li {
+    margin: 7px 0;
+  }
